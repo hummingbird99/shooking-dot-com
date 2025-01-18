@@ -1,3 +1,4 @@
+import type { Metadata } from 'next';
 import React from 'react';
 import './index.css';
 import { Noto_Sans_KR } from 'next/font/google';
@@ -8,6 +9,12 @@ const NOTO_SANS_KR = Noto_Sans_KR({
   subsets: ['latin'],
   weight: ['100', '400', '700', '900'],
 });
+
+export const metadata: Metadata = {
+    title: "Shooking Shopping Mall",
+    description: "Shooking main page",
+};
+
 export default function RootLayout({
   children,
 }: Readonly<{
