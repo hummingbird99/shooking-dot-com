@@ -1,0 +1,1 @@
+export {default as SneakerCard} from '@/shared/card/ui/Card';
