@@ -1,0 +1,150 @@
+[
+    {
+      "id": 0,
+      "itemId": "브랜드A",
+      "description": "편안하고 착용감이 좋은 신발",
+      "price": "35,000원",
+      "image": "image_url_1.jpg"
+    },
+    {
+      "id": 1,
+      "itemId": "브랜드B",
+      "description": "내구성이 뛰어난 스포츠 신발",
+      "price": "45,000원",
+      "image": "image_url_2.jpg"
+    },
+    {
+      "id": 2,
+      "itemId": "브랜드C",
+      "description": "세련된 디자인의 캐주얼 신발",
+      "price": "50,000원",
+      "image": "image_url_3.jpg"
+    },
+    {
+      "id": 3,
+      "itemId": "브랜드D",
+      "description": "편안하고 착용감이 좋은 신발",
+      "price": "35,000원",
+      "image": "image_url_4.jpg"
+    },
+    {
+      "id": 4,
+      "itemId": "브랜드E",
+      "description": "내구성이 뛰어난 스포츠 신발",
+      "price": "45,000원",
+      "image": "image_url_5.jpg"
+    },
+    {
+      "id": 5,
+      "itemId": "브랜드F",
+      "description": "세련된 디자인의 캐주얼 신발",
+      "price": "50,000원",
+      "image": "image_url_6.jpg"
+    },
+    {
+      "id": 6,
+      "itemId": "브랜드A",
+      "description": "편안하고 착용감이 좋은 신발",
+      "price": "35,000원",
+      "image": "image_url_1.jpg"
+    },
+    {
+      "id": 7,
+      "itemId": "브랜드B",
+      "description": "내구성이 뛰어난 스포츠 신발",
+      "price": "45,000원",
+      "image": "image_url_2.jpg"
+    },
+    {
+      "id": 8,
+      "itemId": "브랜드C",
+      "description": "세련된 디자인의 캐주얼 신발",
+      "price": "50,000원",
+      "image": "image_url_3.jpg"
+    },
+    {
+      "id": 9,
+      "itemId": "브랜드D",
+      "description": "편안하고 착용감이 좋은 신발",
+      "price": "35,000원",
+      "image": "image_url_4.jpg"
+    },
+    {
+      "id": 10,
+      "itemId": "브랜드E",
+      "description": "내구성이 뛰어난 스포츠 신발",
+      "price": "45,000원",
+      "image": "image_url_5.jpg"
+    },
+    {
+      "id": 11,
+      "itemId": "브랜드F",
+      "description": "세련된 디자인의 캐주얼 신발",
+      "price": "50,000원",
+      "image": "image_url_6.jpg"
+    },
+    {
+      "id": 12,
+      "itemId": "브랜드A",
+      "description": "편안하고 착용감이 좋은 신발",
+      "price": "35,000원",
+      "image": "image_url_1.jpg"
+    },
+    {
+      "id": 13,
+      "itemId": "브랜드B",
+      "description": "내구성이 뛰어난 스포츠 신발",
+      "price": "45,000원",
+      "image": "image_url_2.jpg"
+    },
+    {
+      "id": 14,
+      "itemId": "브랜드C",
+      "description": "세련된 디자인의 캐주얼 신발",
+      "price": "50,000원",
+      "image": "image_url_3.jpg"
+    },
+    {
+      "id": 15,
+      "itemId": "브랜드D",
+      "description": "편안하고 착용감이 좋은 신발",
+      "price": "35,000원",
+      "image": "image_url_4.jpg"
+    },
+    {
+      "id": 16,
+      "itemId": "브랜드E",
+      "description": "내구성이 뛰어난 스포츠 신발",
+      "price": "45,000원",
+      "image": "image_url_5.jpg"
+    },
+    {
+      "id": 17,
+      "itemId": "브랜드F",
+      "description": "세련된 디자인의 캐주얼 신발",
+      "price": "50,000원",
+      "image": "image_url_6.jpg"
+    },
+    {
+      "id": 18,
+      "itemId": "브랜드A",
+      "description": "편안하고 착용감이 좋은 신발",
+      "price": "35,000원",
+      "image": "image_url_1.jpg"
+    },
+    {
+      "id": 19,
+      "itemId": "브랜드B",
+      "description": "내구성이 뛰어난 스포츠 신발",
+      "price": "45,000원",
+      "image": "image_url_2.jpg"
+    },
+    {
+      "id": 20,
+      "itemId": "브랜드C",
+      "description": "세련된 디자인의 캐주얼 신발",
+      "price": "50,000원",
+      "image": "image_url_3.jpg"
+    }
+  ]
+  
