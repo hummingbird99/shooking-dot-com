@@ -1,0 +1,1 @@
+export {default as SneakerList} from '@/pages/productList/ui/SneakerList'
