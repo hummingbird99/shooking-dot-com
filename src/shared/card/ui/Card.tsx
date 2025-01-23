@@ -3,7 +3,7 @@
 import Image from 'next/image';
 import useCardContents from '../model/useCardContents';
 import { SneakerItem } from 'sneakerData';
-import { AddButton } from '@/shared/button';
+import { AddSneakerButton } from '@/shared/button';
 
 export default function Card() {
     const {contents, loading, error} = useCardContents();
@@ -16,13 +16,13 @@ export default function Card() {
           {contents.map((item: SneakerItem) => (
             <div key={item.id} className="border-slate-200 border w-[184px] h-[246px] rounded-2xl">
               <div className='relative w-[184px] h-[115px] overflow-hidden rounded-t-2xl'>
-                <Image src={item.image} alt='Picture of the merchandise' width={184} height={115} className='rounded-t-2xl' />
+                <Image src={item.image} alt='Sneaker Image' width={184} height={115} priority className='rounded-t-2xl cursor-pointer object-cover' />
               </div>
                 <div className=' flex flex-col m-3 gap-1.5'>
                     <p className='text-base font-medium'>{item.itemId}</p>
                     <p className='text-xs text-gray-400'>{item.description}</p>
                     <p className='text-sm font-semibold'>{item.price}</p>
-                    <AddButton />
+                    <AddSneakerButton />
                 </div>
             </div>
           ))}
